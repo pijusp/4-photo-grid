@@ -17,10 +17,10 @@ Site published at: pijusp.github.io/4-photo-grid/
 
 ## 🎯 Project features/goals
 
--   Design
+-   Photo grid
 -   Structure
--   Responsive design
--   CSS selectors
+-   Responsive design with grid properties
+
 
 ## 🧰 Getting Started
 
@@ -70,4 +70,4 @@ There is no tests for this project.
 
 ## 🔗 Other resources
 
-https://unsplash.com/t/food-drink
+[https://unsplash.com/t/food-drink](https://unsplash.com/t/nature)
